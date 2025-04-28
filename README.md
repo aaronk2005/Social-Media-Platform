@@ -1,6 +1,6 @@
 # Social Media Platform
 
-##Description
+## Description
 A basic social media platform implemented in C that supports:
 - User management (create, search, modify, delete users)
 - Friendship system (add friends, remove friends, list friends, find mutual friends)
